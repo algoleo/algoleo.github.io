@@ -1,1 +1,2 @@
-The site is hosted at
+The website is hosted at 
+algoleo.github.io 
