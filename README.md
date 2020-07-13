@@ -1,2 +1,2 @@
 The website is hosted at 
-algoleo.github.io 
+https://algoleo.github.io/
